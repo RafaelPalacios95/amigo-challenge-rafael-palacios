@@ -61,11 +61,12 @@ function sortearAmigo(){
         let AmigoSorteado = listaAmigos[numeroAzar];
         console.log(AmigoSorteado);
 
-        asignarTextoElemento("resultado", `El amigo sorteado es: ${AmigoSorteado}`);
+        asignarTextoElemento("resultado", `El amigo secreto es: ${AmigoSorteado}`);
         // listaAmigos = [];
     }
     else{
         alert("No se han agregando amigos");
     }
+
 
 }
