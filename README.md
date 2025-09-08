@@ -5,3 +5,6 @@
 Mi proyecto se trata sobre una página que muestra el funcionamiento de una aplicación que permite elegir un nombre a partir de una lista de nombres que se van ingresando.
   A continución un video de su funcionamiento.
 </h4>
+
+https://github.com/user-attachments/assets/bd3c1fc2-34ba-45b6-960e-62ff95e37c20
+
